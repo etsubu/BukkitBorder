@@ -1,0 +1,9 @@
+name: broder
+main: Border.Main
+version: 1.0
+
+
+commands:
+  border:
+      description: This commands initializes the creation of bedrock borders
+      usage: /border [size]
