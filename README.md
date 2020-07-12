@@ -5,11 +5,11 @@ This plugin is used for Bukkit API and can be used to create bedrock borders wit
 Build has been tested with java jdk 11 and craftbukkit 1.16.1
 
 ## How to build
-git clone
-
+```
+git clone git@github.com:etsubu/BukkitBorder.git
 cd BukkitBorder
-
 gradlew clean build
+```
 
 Plugin file is located under build/libs/
 
